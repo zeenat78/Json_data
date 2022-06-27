@@ -1,0 +1,107 @@
+{
+  "franchiseId": {
+    "type": "Number"
+  },
+  "franchiseNum": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "franchiseStatusType": {
+    "type": "Number"
+  },
+  "franchiseAgreementStatusTypeDesc": {
+    "type": "String"
+  },
+  "daContractNum": {
+    "type": "Number"
+  },
+  "masterFranchiseNum": {
+    "type": "Number"
+  },
+  "franchiseTermInMonths": {
+    "type": "Number"
+  },
+  "franchiseTerminationDate": {
+    "type": "Date"
+  },
+  "franchiseTerminationType": {
+    "type": "Number"
+  },
+  "franchiseTerminationTypeDesc": {
+    "type": "String"
+  },
+  "newLanguageInd": {
+    "type": "Number"
+  },
+  "disclosureDate": {
+    "type": "Date"
+  },
+  "effectiveDate": {
+    "type": "Date"
+  },
+  "assignedDate": {
+    "type": "Date"
+  },
+  "agreementCancelledDate": {
+    "type": "Date"
+  },
+  "agreementCancelledType": {
+    "type": "Number"
+  },
+  "agreementExpirationDate": {
+    "type": "Date"
+  },
+  "paymentProgramType": {
+    "type": "Number"
+  },
+  "faPaymentProgramTypeDesc": {
+    "type": "String"
+  },
+  "ofacDate": {
+    "type": "Date"
+  },
+  "ntDrinkOptionType": {
+    "type": "Number"
+  },
+  "ntDrinkOptionTypeDesc": {
+    "type": "String"
+  },
+  "countryCode": {
+    "type": "String"
+  },
+  "amendPreviousAgreementsInd": {
+    "type": "Number"
+  },
+  "businessName": {
+    "type": "String"
+  },
+  "renewalPeriod": {
+    "type": "Number"
+  },
+  "reusableDate": {
+    "type": "Date"
+  },
+  "cancellationOverrideInd": {
+    "type": "Number"
+  },
+  "cancellationOverrideEndDate": {
+    "type": "Date"
+  },
+  "paymentDate": {
+    "type": "Date"
+  },
+  "doingBusinessAs": {
+    "type": "String"
+  },
+  "indianReservationInd": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

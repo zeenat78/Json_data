@@ -1,0 +1,38 @@
+{
+  "daContractOwnerID": {
+    "type": "Number"
+  },
+  "daContractID": {
+    "type": "Number"
+  },
+  "daContractNum": {
+    "type": "Number"
+  },
+  "abbrevOwnerNames": {
+    "type": "String"
+  },
+  "personNum": {
+    "type": "Number"
+  },
+  "firstName": {
+    "type": "String"
+  },
+  "lastName": {
+    "type": "String"
+  },
+  "entityType": {
+    "type": "Number"
+  },
+  "entityTypeDesc": {
+    "type": "String"
+  },
+  "primaryContactInd": {
+    "type": "Number"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "franchiseNum": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "corporationNum": {
+    "type": "String"
+  },
+  "corporationName": {
+    "type": "String"
+  },
+  "personNum": {
+    "type": "Number"
+  },
+  "firstName": {
+    "type": "String"
+  },
+  "lastName": {
+    "type": "String"
+  },
+  "jobTypeId": {
+    "type": "Number"
+  },
+  "jobTypeDesc": {
+    "type": "String"
+  },
+  "primaryContactInd": {
+    "type": "Number"
+  },
+  "conceptTypeId": {
+    "type": "Number"
+  },
+  "conceptTypeDesc": {
+    "type": "String"
+  },
+  "userTimestamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

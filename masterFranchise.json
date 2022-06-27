@@ -1,0 +1,71 @@
+{
+  "masterFranchiseNum": {
+    "type": "Number"
+  },
+  "regionType": {
+    "type": "Number"
+  },
+  "regionTypeDesc": {
+    "type": "String"
+  },
+  "mfUsername": {
+    "type": "String"
+  },
+  "mfCompanyName": {
+    "type": "String"
+  },
+  "abbrevOwnerNames": {
+    "type": "String"
+  },
+  "mfCountryCode": {
+    "type": "String"
+  },
+  "currencyId": {
+    "type": "Number"
+  },
+  "currencyName": {
+    "type": "String"
+  },
+  "royaltyComments": {
+    "type": "String"
+  },
+  "territory": {
+    "type": "String"
+  },
+  "franchiseFeeAmt": {
+    "type": "Number"
+  },
+  "effectiveDate": {
+    "type": "Date"
+  },
+  "daLiaison": {
+    "type": "String"
+  },
+  "royaltyAccountNum": {
+    "type": "String"
+  },
+  "statusType": {
+    "type": "Number"
+  },
+  "statusTypeDesc": {
+    "type": "String"
+  },
+  "estLocalPopulation": {
+    "type": "Number"
+  },
+  "terminationDate": {
+    "type": "Date"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  },
+  "commenceDate": {
+    "type": "Date"
+  },
+  "amendmentDate": {
+    "type": "Date"
+  }
+}

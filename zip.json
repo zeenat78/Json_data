@@ -1,0 +1,29 @@
+{
+  "zipId": {
+    "type": "Number"
+  },
+  "zipCode": {
+    "type": "String"
+  },
+  "cityName": {
+    "type": "String"
+  },
+  "countyName": {
+    "type": "String"
+  },
+  "stateProvCode": {
+    "type": "String"
+  },
+  "stateName": {
+    "type": "String"
+  },
+  "countrycode": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "isoCountryType": {
+    "type": "Number"
+  },
+  "isoCountryCode": {
+    "type": "String"
+  },
+  "isoCountryCodeShort": {
+    "type": "String"
+  },
+  "subwayCountryCode": {
+    "type": "String"
+  },
+  "isoCountryCodeShortCombo": {
+    "type": "String"
+  },
+  "isoStateCode": {
+    "type": "String"
+  },
+  "subwayStateCode": {
+    "type": "String"
+  },
+  "stateProvCode": {
+    "type": "String"
+  },
+  "stateName": {
+    "type": "String"
+  },
+  "countryCode": {
+    "type": "String"
+  },
+  "subdivisionName": {
+    "type": "String"
+  },
+  "subdivisionNameOther": {
+    "type": "String"
+  },
+  "subdivisionNameOtherLang": {
+    "type": "String"
+  },
+  "regionalDivision": {
+    "type": "String"
+  },
+  "category": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

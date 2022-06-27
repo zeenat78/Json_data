@@ -1,0 +1,98 @@
+{
+  "daContractId": {
+    "type": "Number"
+  },
+  "daContractNum": {
+    "type": "Number"
+  },
+  "contractType": {
+    "type": "Number"
+  },
+  "contractTypeDesc": {
+    "type": "String"
+  },
+  "currentInd": {
+    "type": "Number"
+  },
+  "regionType": {
+    "type": "Number"
+  },
+  "regionTypeDesc": {
+    "type": "String"
+  },
+  "daContractStatusType": {
+    "type": "Number"
+  },
+  "daContractStatusTypeDesc": {
+    "type": "String"
+  },
+  "daCompanyName": {
+    "type": "String"
+  },
+  "abbrevOwnerNames": {
+    "type": "String"
+  },
+  "daCountryCode": {
+    "type": "String"
+  },
+  "currencyCode": {
+    "type": "Number"
+  },
+  "currencyId": {
+    "type": "Number"
+  },
+  "currencyName": {
+    "type": "String"
+  },
+  "requiredFAFInd": {
+    "type": "Number"
+  },
+  "territory": {
+    "type": "String"
+  },
+  "marketingDACode": {
+    "type": "String"
+  },
+  "estLocalPopulation": {
+    "type": "Number"
+  },
+  "originalPopulation": {
+    "type": "Number"
+  },
+  "afSupplementalInd": {
+    "type": "Number"
+  },
+  "aiSupplementalInd": {
+    "type": "Number"
+  },
+  "contractDate": {
+    "type": "Date"
+  },
+  "initTermExpireDate": {
+    "type": "Date"
+  },
+  "lastExtDate": {
+    "type": "Date"
+  },
+  "numberOfStores": {
+    "type": "Number"
+  },
+  "terminationDate": {
+    "type": "Date"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  },
+  "commenceDate": {
+    "type": "Date"
+  },
+  "amendmentDate": {
+    "type": "Date"
+  },
+  "trialDate": {
+    "type": "Date"
+  }
+}

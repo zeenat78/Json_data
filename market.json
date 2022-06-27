@@ -1,0 +1,38 @@
+{
+  "marketAreaCode": {
+    "type": "String"
+  },
+  "marketId": {
+    "type": "Number"
+  },
+  "regionType": {
+    "type": "Number"
+  },
+  "regionDescription": {
+    "type": "String"
+  },
+  "marketName": {
+    "type": "String"
+  },
+  "countryCode": {
+    "type": "String"
+  },
+  "countryName": {
+    "type": "String"
+  },
+  "countryId": {
+    "type": "Number"
+  },
+  "stateProvCode": {
+    "type": "String"
+  },
+  "marketCurrentInd": {
+    "type": "Number"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

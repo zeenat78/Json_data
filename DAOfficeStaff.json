@@ -1,0 +1,41 @@
+{
+  "daOfficeStaffId": {
+    "type": "Number"
+  },
+  "daContractNum": {
+    "type": "Number"
+  },
+  "personNum": {
+    "type": "Number"
+  },
+  "firstName": {
+    "type": "String"
+  },
+  "lastName": {
+    "type": "String"
+  },
+  "entityType": {
+    "type": "Number"
+  },
+  "entityTypeDesc": {
+    "type": "String"
+  },
+  "daOfficeStaffJobType": {
+    "type": "Number"
+  },
+  "jobTypeDesc": {
+    "type": "String"
+  },
+  "terminationDate": {
+    "type": "Date"
+  },
+  "conductsEvalsInd": {
+    "type": "Number"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

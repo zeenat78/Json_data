@@ -1,0 +1,47 @@
+{
+  "waiversId": {
+    "type": "Number"
+  },
+  "entityType": {
+    "type": "Number"
+  },
+  "entityTypeDesc": {
+    "type": "String"
+  },
+  "entityNum": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "waiverType": {
+    "type": "Number"
+  },
+  "waiverTypeDesc": {
+    "type": "String"
+  },
+  "waiverStatusType": {
+    "type": "Number"
+  },
+  "waiverStatusTypeDesc": {
+    "type": "String"
+  },
+  "effectiveDate": {
+    "type": "Date"
+  },
+  "expirationDate": {
+    "type": "Date"
+  },
+  "waiverValue": {
+    "type": "String"
+  },
+  "comments": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

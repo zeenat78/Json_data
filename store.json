@@ -1,0 +1,137 @@
+{
+  "franchiseNum": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "storeStatusType": {
+    "type": "Number"
+  },
+  "marketAreaCode": {
+    "type": "String"
+  },
+  "nonTraditionalType": {
+    "type": "Number"
+  },
+  "ntAttributeDesc": {
+    "type": "String"
+  },
+  "initialOpeningDate": {
+    "type": "Date"
+  },
+  "temporaryClosingType": {
+    "type": "Number"
+  },
+  "storeClosingType": {
+    "type": "Number"
+  },
+  "temporaryClosingDate": {
+    "type": "Date"
+  },
+  "finalClosedDate": {
+    "type": "Date"
+  },
+  "equipmentOrderDate": {
+    "type": "Date"
+  },
+  "posVendorId": {
+    "type": "Number"
+  },
+  "lastReopeningDate": {
+    "type": "Date"
+  },
+  "gln": {
+    "type": "String"
+  },
+  "anticipatedReopeningDate": {
+    "type": "Date"
+  },
+  "restaurantId": {
+    "type": "String"
+  },
+  "conceptTypeId": {
+    "type": "Number"
+  },
+  "conceptTypeDesc": {
+    "type": "String"
+  },
+  "storeStatusTypeDesc": {
+    "type": "String"
+  },
+  "masterFranchiseNum": {
+    "type": "Number"
+  },
+  "marketAreaName": {
+    "type": "String"
+  },
+  "locatedIn": {
+    "type": "String"
+  },
+  "address1": {
+    "type": "String"
+  },
+  "address2": {
+    "type": "String"
+  },
+  "city": {
+    "type": "String"
+  },
+  "stateProvCode": {
+    "type": "String"
+  },
+  "zip": {
+    "type": "String"
+  },
+  "county": {
+    "type": "String"
+  },
+  "countryCode": {
+    "type": "String"
+  },
+  "nonTraditionalTypeDesc": {
+    "type": "String"
+  },
+  "temporaryClosingTypeDesc": {
+    "type": "String"
+  },
+  "storeFinalClosedTypeDesc": {
+    "type": "String"
+  },
+  "posVendorIdDesc": {
+    "type": "String"
+  },
+  "isoCurrencycode": {
+    "type": "Number"
+  },
+  "isoCurrencyAlphaCode": {
+    "type": "String"
+  },
+  "currencyName": {
+    "type": "String"
+  },
+  "latitude": {
+    "type": "Number"
+  },
+  "longitude": {
+    "type": "Number"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  },
+  "daContractNum": {
+    "type": "Number"
+  },
+  "daAbbrevOwnerName": {
+    "type": "String"
+  },
+  "lastRemodelDate": {
+    "type": "Date"
+  },
+  "nextRemodelDate": {
+    "type": "Date"
+  }
+}

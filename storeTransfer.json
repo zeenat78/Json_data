@@ -1,0 +1,71 @@
+{
+  "franchiseNum": {
+    "type": "Number"
+  },
+  "franchiseId": {
+    "type": "Number"
+  },
+  "sequenceNum": {
+    "type": "Number"
+  },
+  "transferStatusType": {
+    "type": "Number"
+  },
+  "transferStatusTypeDesc": {
+    "type": "String"
+  },
+  "transferType": {
+    "type": "Number"
+  },
+  "transferTypeDesc": {
+    "type": "String"
+  },
+  "transferClosingDate": {
+    "type": "Date"
+  },
+  "transferAppliedDate": {
+    "type": "Date"
+  },
+  "transferCompletedDate": {
+    "type": "Date"
+  },
+  "transferCancelledDate": {
+    "type": "Date"
+  },
+  "proposedClosingDate": {
+    "type": "Date"
+  },
+  "buyerPersonNum": {
+    "type": "Number"
+  },
+  "lastName": {
+    "type": "String"
+  },
+  "firstName": {
+    "type": "String"
+  },
+  "middleInitial": {
+    "type": "String"
+  },
+  "entityType": {
+    "type": "Number"
+  },
+  "entityTypeDesc": {
+    "type": "String"
+  },
+  "buyerExistingFranchiseeInd": {
+    "type": "Number"
+  },
+  "transferAppliedInd": {
+    "type": "Number"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  },
+  "franchiseTransferId": {
+    "type": "Number"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "entityId": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "entityType": {
+    "type": "Number"
+  },
+  "entityTypeDesc": {
+    "type": "String"
+  },
+  "communicationType": {
+    "type": "Number"
+  },
+  "communicationTypeDesc": {
+    "type": "String"
+  },
+  "entityValue": {
+    "type": "String"
+  },
+  "conceptTypeID": {
+    "type": "Number"
+  },
+  "conceptTypeDesc": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

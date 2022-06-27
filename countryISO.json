@@ -1,0 +1,26 @@
+{
+  "countryCode": {
+    "type": "String"
+  },
+  "isoCountryCode": {
+    "type": "String"
+  },
+  "iso2DigitCountryCode": {
+    "type": "String"
+  },
+  "countryName": {
+    "type": "String"
+  },
+  "currencyCode": {
+    "type": "String"
+  },
+  "currencyName": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

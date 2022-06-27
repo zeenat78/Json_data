@@ -1,0 +1,50 @@
+{
+  "franchiseNum": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "franchiseFeeAmt": {
+    "type": "Number"
+  },
+  "helpSellBeginDate": {
+    "type": "Date"
+  },
+  "helpSellEndDate": {
+    "type": "Date"
+  },
+  "helpSellProgramInd": {
+    "type": "Number"
+  },
+  "salePrice": {
+    "type": "Number"
+  },
+  "currencyName": {
+    "type": "String"
+  },
+  "isoCurrencyAlphaCode": {
+    "type": "String"
+  },
+  "salePriceISOCurrencyNumericCode": {
+    "type": "Number"
+  },
+  "displayOnSubwayDotComInd": {
+    "type": "Number"
+  },
+  "litigationFlag": {
+    "type": "Number"
+  },
+  "possessionInd": {
+    "type": "Number"
+  },
+  "companyStoreInd": {
+    "type": "Number"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type ": "Date"
+  }
+}

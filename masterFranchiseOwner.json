@@ -1,0 +1,23 @@
+{
+  "masterFranchiseOwnerID": {
+    "type": "Number"
+  },
+  "masterFranchiseNum": {
+    "type": "Number"
+  },
+  "personNum": {
+    "type": "Number"
+  },
+  "entityType": {
+    "type": "Number"
+  },
+  "entityTypeDesc": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

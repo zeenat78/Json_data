@@ -1,0 +1,68 @@
+{
+  "franchiseNum": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "sundayOpenTime": {
+    "type": "Date"
+  },
+  "sundayCloseTime": {
+    "type": "Date"
+  },
+  "mondayOpenTime": {
+    "type": "Date"
+  },
+  "mondayCloseTime": {
+    "type": "Date"
+  },
+  "tuesdayOpenTime": {
+    "type": "Date"
+  },
+  "tuesdayCloseTime": {
+    "type": "Date"
+  },
+  "wednesdayOpenTime": {
+    "type": "Date"
+  },
+  "wednesdayCloseTime": {
+    "type": "Date"
+  },
+  "thursdayOpenTime": {
+    "type": "Date"
+  },
+  "thursdayCloseTime": {
+    "type": "Date"
+  },
+  "fridayOpenTime": {
+    "type": "Date"
+  },
+  "fridayCloseTime": {
+    "type": "Date"
+  },
+  "saturdayOpenTime": {
+    "type": "Date"
+  },
+  "saturdayCloseTime": {
+    "type": "Date"
+  },
+  "totalHours": {
+    "type": "Number"
+  },
+  "twentyFourHourFlag": {
+    "type": "String"
+  },
+  "gmtOffset": {
+    "type": "Number"
+  },
+  "daylightSavingsInMinutes": {
+    "type": "Number"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

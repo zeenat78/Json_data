@@ -1,0 +1,41 @@
+{
+  "countyKey": {
+    "type": "String"
+  },
+  "countyName": {
+    "type": "String"
+  },
+  "stateProvCode": {
+    "type": "String"
+  },
+  "stateName": {
+    "type": "String"
+  },
+  "countryCode": {
+    "type": "String"
+  },
+  "countyStatusType": {
+    "type": "Number"
+  },
+  "countyStatusTypeDesc": {
+    "type": "String"
+  },
+  "countyTaxId": {
+    "type": "Number"
+  },
+  "countyTaxRate": {
+    "type": "Number"
+  },
+  "stateTaxId": {
+    "type": "Number"
+  },
+  "stateTaxRate": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

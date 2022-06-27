@@ -1,0 +1,20 @@
+{
+  "franchiseNum": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "attributeTypeID": {
+    "type": "Number"
+  },
+  "attributeType": {
+    "type": "Number"
+  },
+  "attributeValue": {
+    "type": "Number"
+  },
+  "attributeValueDescription": {
+    "type": "String"
+  }
+}

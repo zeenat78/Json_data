@@ -1,0 +1,53 @@
+{
+  "franchiseNum": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "daContractNum": {
+    "type": "Number"
+  },
+  "personNum": {
+    "type": "Number"
+  },
+  "firstName": {
+    "type": "String"
+  },
+  "lastName": {
+    "type": "String"
+  },
+  "jobType": {
+    "type": "Number"
+  },
+  "jobTypeDesc": {
+    "type": "String"
+  },
+  "officeType": {
+    "type": "Number"
+  },
+  "officeTypeDesc": {
+    "type": "String"
+  },
+  "currentInd": {
+    "type": "Number"
+  },
+  "hqInd": {
+    "type": "Number"
+  },
+  "useDAInd": {
+    "type": "Number"
+  },
+  "entityType": {
+    "type": "Number"
+  },
+  "entityTypeDesc": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

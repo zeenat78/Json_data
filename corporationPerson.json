@@ -1,0 +1,32 @@
+{
+  "corporationPersonId": {
+    "type": "Number"
+  },
+  "corporationNum": {
+    "type": "Number"
+  },
+  "personNum": {
+    "type": "Number"
+  },
+  "beginDate": {
+    "type": "Date"
+  },
+  "endDate": {
+    "type": "Date"
+  },
+  "stsInd": {
+    "type": "Number"
+  },
+  "constWebInd": {
+    "type": "Number"
+  },
+  "primaryContactInd": {
+    "type": "Number"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

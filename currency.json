@@ -1,0 +1,23 @@
+{
+  "currencyId": {
+    "type": "Number"
+  },
+  "currencyName": {
+    "type": "String"
+  },
+  "isoCurrencyCode": {
+    "type": "String"
+  },
+  "currencySymbol": {
+    "type": "String"
+  },
+  "fractionalUnit": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

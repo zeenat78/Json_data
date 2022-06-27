@@ -1,0 +1,32 @@
+{
+  "insuranceRecId": {
+    "type": "Number"
+  },
+  "companyName": {
+    "type": "String"
+  },
+  "franchiseId": {
+    "type": "Number"
+  },
+  "franchiseNum": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "storeInsuranceType": {
+    "type": "Number"
+  },
+  "storeInsuranceTypeDesc": {
+    "type": "String"
+  },
+  "policyId": {
+    "type": "String"
+  },
+  "carrierEntityType": {
+    "type": "Number"
+  },
+  "carrierEntityTypeDesc": {
+    "type": "String"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "personNum": {
+    "type": "Number"
+  },
+  "firstName": {
+    "type": "String"
+  },
+  "lastName": {
+    "type": "String"
+  },
+  "entityType": {
+    "type": "Number"
+  },
+  "entityTypeDesc": {
+    "type": "String"
+  },
+  "primaryContactInd": {
+    "type": "Number"
+  },
+  "conceptTypeID": {
+    "type": "Number"
+  },
+  "conceptTypeDesc": {
+    "type": "String"
+  },
+  "firstFranchiseDate": {
+    "type": "Date"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

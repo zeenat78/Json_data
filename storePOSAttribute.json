@@ -1,0 +1,38 @@
+{
+  "franchiseNum": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "restaurantID": {
+    "type": "String"
+  },
+  "conceptTypeID": {
+    "type": "Number"
+  },
+  "conceptTypeDesc": {
+    "type": "String"
+  },
+  "posVendorId": {
+    "type": "Number"
+  },
+  "posVendorIDDesc": {
+    "type": "String"
+  },
+  "posUserId": {
+    "type": "String"
+  },
+  "softwareVersion": {
+    "type": "String"
+  },
+  "spmFranchiseId": {
+    "type": "Number"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

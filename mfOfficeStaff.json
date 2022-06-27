@@ -1,0 +1,38 @@
+{
+  "mfOfficeStaffId": {
+    "type": "Number"
+  },
+  "masterFranchiseNum": {
+    "type": "Number"
+  },
+  "personNum": {
+    "type": "Number"
+  },
+  "firstName": {
+    "type": "String"
+  },
+  "lastName": {
+    "type": "String"
+  },
+  "entityType": {
+    "type": "Number"
+  },
+  "entityTypeDesc": {
+    "type": "String"
+  },
+  "mfOfficeStaffJobType": {
+    "type": "Number"
+  },
+  "jobTypeDesc": {
+    "type": "String"
+  },
+  "mfCompanyName": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

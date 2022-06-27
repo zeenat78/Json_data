@@ -1,0 +1,35 @@
+{
+  "corporationNum": {
+    "type": "Number"
+  },
+  "corporationName": {
+    "type": "String"
+  },
+  "corporationStatusType": {
+    "type": "Number"
+  },
+  "corporationStatusTypeDesc": {
+    "type": "String"
+  },
+  "optOutDate": {
+    "type": "Date"
+  },
+  "ofacDate": {
+    "type": "Date"
+  },
+  "incorporationCountry": {
+    "type": "String"
+  },
+  "currencyId": {
+    "type": "Number"
+  },
+  "currencyName": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

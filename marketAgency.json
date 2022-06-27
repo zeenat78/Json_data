@@ -1,0 +1,47 @@
+{
+  "marketId": {
+    "type": "Number"
+  },
+  "marketAreaCode": {
+    "type": "String"
+  },
+  "primaryAgencyNum": {
+    "type": "Number"
+  },
+  "secondaryAgencyNum": {
+    "type": "Number"
+  },
+  "marketCurrentInd": {
+    "type": "Number"
+  },
+  "primaryAgencyName": {
+    "type": "String"
+  },
+  "secondaryAgencyName": {
+    "type": "String"
+  },
+  "agencyCurrentInd": {
+    "type": "Number"
+  },
+  "marketName": {
+    "type": "String"
+  },
+  "countryCode": {
+    "type": "String"
+  },
+  "countryName": {
+    "type": "String"
+  },
+  "stateProvCode": {
+    "type": "String"
+  },
+  "stateName": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "storeNumber": {
+    "type": "String"
+  },
+  "subsLeaseId": {
+    "type": "Number"
+  },
+  "termStatus": {
+    "type": "String"
+  },
+  "leaseStatus": {
+    "type": "String"
+  },
+  "landlordCollectingVat": {
+    "type": "String"
+  },
+  "landlordAsFranchisee": {
+    "type": "String"
+  },
+  "landlordToProvideNotice": {
+    "type": "String"
+  },
+  "noticeSent": {
+    "type": "String"
+  },
+  "nonRenewalApprovalDate": {
+    "type": "String"
+  },
+  "liabilityEffectiveDate": {
+    "type": "String"
+  },
+  "currentTermEnd": {
+    "type": "String"
+  }
+}

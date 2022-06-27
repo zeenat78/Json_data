@@ -1,0 +1,113 @@
+{
+  "franchiseNum": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "restaurantId": {
+    "type": "String"
+  },
+  "royaltiesryRY": {
+    "type": "Number"
+  },
+  "advertisingAD": {
+    "type": "Number"
+  },
+  "equipmentLeaseEL": {
+    "type": "Number"
+  },
+  "notesReceivableNR": {
+    "type": "Number"
+  },
+  "additionalFundsAF": {
+    "type": "Number"
+  },
+  "additionalFranchiseFF": {
+    "type": "Number"
+  },
+  "realTyreRE": {
+    "type": "Number"
+  },
+  "backrent": {
+    "type": "Number"
+  },
+  "storeStatus": {
+    "type": "String"
+  },
+  "equipmentLease": {
+    "type": "Number"
+  },
+  "promissoryNote": {
+    "type": "Number"
+  },
+  "audit": {
+    "type": "Number"
+  },
+  "inRenovation": {
+    "type": "Number"
+  },
+  "coBrand": {
+    "type": "Number"
+  },
+  "schoolLunch": {
+    "type": "Number"
+  },
+  "litigationArbitration": {
+    "type": "Number"
+  },
+  "activeWaivers": {
+    "type": "Number"
+  },
+  "expiredInsurance": {
+    "type": "Number"
+  },
+  "insuranceRenewalDate": {
+    "type": "Date"
+  },
+  "decorUpgrade": {
+    "type": "Number"
+  },
+  "decorUpgradeDate": {
+    "type": "Date"
+  },
+  "active313": {
+    "type": "Number"
+  },
+  "activeSatellite": {
+    "type": "Number"
+  },
+  "inTransfer": {
+    "type": "Number"
+  },
+  "inTermination": {
+    "type": "Number"
+  },
+  "subwayOwned": {
+    "type": "Number"
+  },
+  "leaseId": {
+    "type": "Number"
+  },
+  "currentLandlord": {
+    "type": "String"
+  },
+  "dateOfLease": {
+    "type": "Date"
+  },
+  "currentLeaseExpirationDate": {
+    "type": "Date"
+  },
+  "dateOfCurrentSublease": {
+    "type": "Date"
+  },
+  "finalOptionExpires": {
+    "type": "Date"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

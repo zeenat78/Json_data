@@ -1,0 +1,56 @@
+{
+  "storeId": {
+    "type": "Number"
+  },
+  "storeNum": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "storeStatusKey": {
+    "type": "Number"
+  },
+  "storeStatusDesc": {
+    "type": "String"
+  },
+  "daContractNum": {
+    "type": "Number"
+  },
+  "abbrevOwnerNames": {
+    "type": "String"
+  },
+  "businessCountryId": {
+    "type": "Number"
+  },
+  "businessCountryDesc": {
+    "type": "String"
+  },
+  "businessUnitId": {
+    "type": "Number"
+  },
+  "businessUnitDesc": {
+    "type": "String"
+  },
+  "businessRegionId": {
+    "type": "Number"
+  },
+  "businessRegionDesc": {
+    "type": "String"
+  },
+  "globalTypeID": {
+    "type": "Number"
+  },
+  "globalTypeDesc": {
+    "type": "String"
+  },
+  "businessCountryPersonNum": {
+    "type": "Number"
+  },
+  "businessUnitPersonNum": {
+    "type": "Number"
+  },
+  "businessRegionPersonNum": {
+    "type": "Number"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeNumber": {
+    "type": "String"
+  },
+  "approvalType": {
+    "type": "String"
+  },
+  "processDate": {
+    "type": "Date"
+  },
+  "approvalStatus": {
+    "type": "String"
+  },
+  "contingencies": {
+    "type": "String"
+  }
+}

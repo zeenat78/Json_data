@@ -1,0 +1,26 @@
+{
+  "geographicRegionTypeId": {
+    "type": "Number"
+  },
+  "geographicRegionTypeDesc": {
+    "type": "String"
+  },
+  "regionPersonType": {
+    "type": "Number"
+  },
+  "personNum": {
+    "type": "Number"
+  },
+  "firstName": {
+    "type": "String"
+  },
+  "lastName": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

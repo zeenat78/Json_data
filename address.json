@@ -1,0 +1,71 @@
+{
+  "conceptTypeId": {
+    "type": "Number"
+  },
+  "conceptTypeDesc": {
+    "type": "String"
+  },
+  "entityId": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "entityType": {
+    "type": "Number"
+  },
+  "entityTypeDescription": {
+    "type": "String"
+  },
+  "addressType": {
+    "type": "Number"
+  },
+  "addressTypeDescription": {
+    "type": "String"
+  },
+  "attn": {
+    "type": "String"
+  },
+  "address1": {
+    "type": "String"
+  },
+  "address2": {
+    "type": "String"
+  },
+  "address3": {
+    "type": "String"
+  },
+  "city": {
+    "type": "String"
+  },
+  "stateProvCode": {
+    "type": "String"
+  },
+  "isoStateCode": {
+    "type": "String"
+  },
+  "stateName": {
+    "type": "String"
+  },
+  "zip": {
+    "type": "String"
+  },
+  "county": {
+    "type": "String"
+  },
+  "countryCode": {
+    "type": "String"
+  },
+  "isoCountryCode": {
+    "type": "String"
+  },
+  "countryName": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}

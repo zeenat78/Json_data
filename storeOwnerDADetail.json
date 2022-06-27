@@ -1,0 +1,140 @@
+{
+  "storeNum": {
+    "type": "Number"
+  },
+  "satelliteNum": {
+    "type": "Number"
+  },
+  "storeStatusType": {
+    "type": "Number"
+  },
+  "storeStatusDesc": {
+    "type": "String"
+  },
+  "marketId": {
+    "type": "Number"
+  },
+  "marketLocation": {
+    "type": "String"
+  },
+  "marketAreaCode": {
+    "type": "String"
+  },
+  "spmFranchiseId": {
+    "type": "String"
+  },
+  "storeAddress1": {
+    "type": "String"
+  },
+  "storeAddress2": {
+    "type": "String"
+  },
+  "storeAddress3": {
+    "type": "String"
+  },
+  "storeCity": {
+    "type": "String"
+  },
+  "storeStateProvCode": {
+    "type": "String"
+  },
+  "storeStateName": {
+    "type": "String"
+  },
+  "storeZipCode": {
+    "type": "Number"
+  },
+  "storeCountryCode": {
+    "type": "String"
+  },
+  "storeCountryName": {
+    "type": "String"
+  },
+  "storePhone": {
+    "type": "Number"
+  },
+  "ownerPersonNum": {
+    "type": "Number"
+  },
+  "corporationOwnerDesigneeInd": {
+    "type": "String"
+  },
+  "corporationOwnerInd": {
+    "type": "String"
+  },
+  "ownerFirstName": {
+    "type": "String"
+  },
+  "ownerLastName": {
+    "type": "String"
+  },
+  "ownerAddress1": {
+    "type": "String"
+  },
+  "ownerAddress2": {
+    "type": "String"
+  },
+  "ownerAddress3": {
+    "type": "String"
+  },
+  "ownerCity": {
+    "type": "String"
+  },
+  "ownerStateProvCode": {
+    "type": "String"
+  },
+  "ownerStateName": {
+    "type": "String"
+  },
+  "ownerZipCode": {
+    "type": "Number"
+  },
+  "ownerCountryCode": {
+    "type": "String"
+  },
+  "ownerCountryName": {
+    "type": "String"
+  },
+  "ownerBusinessPhone": {
+    "type": "Number"
+  },
+  "ownerMobilPhone": {
+    "type": "Number"
+  },
+  "ownerEmailAddress": {
+    "type": "String"
+  },
+  "daContractNum": {
+    "type": "Number"
+  },
+  "daContractName": {
+    "type": "String"
+  },
+  "daPrimaryOwnerPersonNum": {
+    "type": "Number"
+  },
+  "daOwnerFirstName": {
+    "type": "String"
+  },
+  "daOwnerLastName": {
+    "type": "String"
+  },
+  "daBusinessPhone": {
+    "type": "Number"
+  },
+  "daMobilPhone": {
+    "type": "Number"
+  },
+  "daEmailAddress": {
+    "type": "String"
+  },
+  "cateringOptin": {
+    "type": "String"
+  },
+  "userStamp": {
+    "type": "String"
+  },
+  "dateTimeStamp": {
+    "type": "Date"
+  }
+}
